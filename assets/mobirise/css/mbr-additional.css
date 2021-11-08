@@ -105,7 +105,7 @@ body {
   background-color: #6592e6 !important;
 }
 .bg-success {
-  background-color: #40b0bf !important;
+  background-color: #2cae65 !important;
 }
 .bg-info {
   background-color: #47b5ed !important;
@@ -184,8 +184,8 @@ body {
 }
 .btn-success,
 .btn-success:active {
-  background-color: #40b0bf !important;
-  border-color: #40b0bf !important;
+  background-color: #2cae65 !important;
+  border-color: #2cae65 !important;
   color: #ffffff !important;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2);
 }
@@ -194,15 +194,15 @@ body {
 .btn-success.focus,
 .btn-success.active {
   color: #ffffff !important;
-  background-color: #2a747e !important;
-  border-color: #2a747e !important;
+  background-color: #1b693d !important;
+  border-color: #1b693d !important;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.2);
 }
 .btn-success.disabled,
 .btn-success:disabled {
   color: #ffffff !important;
-  background-color: #2a747e !important;
-  border-color: #2a747e !important;
+  background-color: #1b693d !important;
+  border-color: #1b693d !important;
 }
 .btn-warning,
 .btn-warning:active {
@@ -359,13 +359,13 @@ body {
 .btn-success-outline:active {
   background-color: transparent !important;
   border-color: transparent;
-  color: #40b0bf;
+  color: #2cae65;
 }
 .btn-success-outline:hover,
 .btn-success-outline:focus,
 .btn-success-outline.focus,
 .btn-success-outline.active {
-  color: #2a747e !important;
+  color: #1b693d !important;
   background-color: transparent!important;
   border-color: transparent!important;
   box-shadow: none!important;
@@ -373,8 +373,8 @@ body {
 .btn-success-outline.disabled,
 .btn-success-outline:disabled {
   color: #ffffff !important;
-  background-color: #40b0bf !important;
-  border-color: #40b0bf !important;
+  background-color: #2cae65 !important;
+  border-color: #2cae65 !important;
 }
 .btn-warning-outline,
 .btn-warning-outline:active {
@@ -467,7 +467,7 @@ body {
   color: #ff6666 !important;
 }
 .text-success {
-  color: #40b0bf !important;
+  color: #2cae65 !important;
 }
 .text-info {
   color: #47b5ed !important;
@@ -497,7 +497,7 @@ a.text-secondary.active {
 a.text-success:hover,
 a.text-success:focus,
 a.text-success.active {
-  color: #266a73 !important;
+  color: #175d36 !important;
 }
 a.text-info:hover,
 a.text-info:focus,
@@ -573,7 +573,7 @@ a:hover {
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
-  color: #a0d8df;
+  color: #7cdea7;
 }
 .mbr-plan-header.bg-info .mbr-plan-subtitle,
 .mbr-plan-header.bg-info .mbr-plan-price-desc {
@@ -758,7 +758,7 @@ a {
 }
 .cid-sMLc90aLcJ .dropdown-menu,
 .cid-sMLc90aLcJ .navbar.opened {
-  background: #ffffff !important;
+  background: #089460 !important;
 }
 .cid-sMLc90aLcJ .nav-item:focus,
 .cid-sMLc90aLcJ .nav-link:focus {
@@ -793,7 +793,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #ffffff;
+  background: #089460;
 }
 .cid-sMLc90aLcJ .navbar.opened {
   transition: all 0.3s;
@@ -933,7 +933,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-sMLc90aLcJ .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #089460;
 }
 .cid-sMLc90aLcJ .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -1096,49 +1096,39 @@ a {
   text-align: left;
   color: #232323;
 }
-.cid-sNDzsMRH9U {
-  background-image: url("../../../assets/images/1190372-1920x1170.jpg");
-}
-.cid-sNDzsMRH9U .mbr-section-title {
-  color: #000000;
-}
-.cid-sNDzsMRH9U .mbr-text,
-.cid-sNDzsMRH9U .mbr-section-btn {
-  color: #000000;
-}
-.cid-sMSystpQ5E {
+.cid-sObOlDgF1x {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #ffffff;
+  background-color: #2cae6a;
 }
-.cid-sMSystpQ5E .oldcost {
+.cid-sObOlDgF1x .oldcost {
   text-decoration: line-through;
   color: #353535;
 }
-.cid-sMSystpQ5E .currentcost {
+.cid-sObOlDgF1x .currentcost {
   color: #232323;
 }
-.cid-sMSystpQ5E .card-wrapper {
+.cid-sObOlDgF1x .card-wrapper {
   border-radius: 4px;
   background: #ffffff;
 }
 @media (min-width: 992px) {
-  .cid-sMSystpQ5E .text-box {
+  .cid-sObOlDgF1x .text-box {
     padding: 2rem;
     padding-right: 4rem;
   }
 }
 @media (max-width: 991px) {
-  .cid-sMSystpQ5E .text-box {
+  .cid-sObOlDgF1x .text-box {
     padding: 2rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-sMSystpQ5E .text-box {
+  .cid-sObOlDgF1x .text-box {
     padding: 1rem;
   }
 }
-.cid-sMSystpQ5E .image-wrapper img {
+.cid-sObOlDgF1x .image-wrapper img {
   width: 100%;
   object-fit: cover;
 }
@@ -1212,7 +1202,7 @@ a {
 }
 .cid-sMLc90aLcJ .dropdown-menu,
 .cid-sMLc90aLcJ .navbar.opened {
-  background: #ffffff !important;
+  background: #089460 !important;
 }
 .cid-sMLc90aLcJ .nav-item:focus,
 .cid-sMLc90aLcJ .nav-link:focus {
@@ -1247,7 +1237,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #ffffff;
+  background: #089460;
 }
 .cid-sMLc90aLcJ .navbar.opened {
   transition: all 0.3s;
@@ -1387,7 +1377,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-sMLc90aLcJ .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #089460;
 }
 .cid-sMLc90aLcJ .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -1492,7 +1482,7 @@ a {
 .cid-sNIt3fWpEv {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffffff;
+  background-color: #2cae6a;
 }
 @media (max-width: 991px) {
   .cid-sNIt3fWpEv .image-wrapper {
@@ -1507,10 +1497,26 @@ a {
     padding: 2rem;
   }
 }
+.cid-sObWAIlQ5R {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #2cae6a;
+}
+@media (max-width: 991px) {
+  .cid-sObWAIlQ5R .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sObWAIlQ5R .row {
+  flex-direction: row-reverse;
+}
+.cid-sObWAIlQ5R img {
+  width: 100%;
+}
 .cid-sNIzepAHBz {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #ffffff;
+  background-color: #2cae6a;
 }
 .cid-sNIzepAHBz .mbr-iconfont {
   display: block;
